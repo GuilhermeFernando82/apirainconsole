@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ams": {
+      "commandName": "Project",
+      "commandLineArgs": "rainfallforecast \"D:\\Code\\Ams\\input\" \"D:\\Code\\Ams\\output\""
+    }
+  }
+}

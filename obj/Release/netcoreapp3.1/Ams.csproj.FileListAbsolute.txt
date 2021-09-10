@@ -1,0 +1,15 @@
+D:\Code\Ams\bin\Release\netcoreapp3.1\Ams.exe
+D:\Code\Ams\bin\Release\netcoreapp3.1\Ams.deps.json
+D:\Code\Ams\bin\Release\netcoreapp3.1\Ams.runtimeconfig.json
+D:\Code\Ams\bin\Release\netcoreapp3.1\Ams.runtimeconfig.dev.json
+D:\Code\Ams\bin\Release\netcoreapp3.1\Ams.dll
+D:\Code\Ams\bin\Release\netcoreapp3.1\Ams.pdb
+D:\Code\Ams\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code\Ams\obj\Release\netcoreapp3.1\Ams.csprojAssemblyReference.cache
+D:\Code\Ams\obj\Release\netcoreapp3.1\Ams.AssemblyInfoInputs.cache
+D:\Code\Ams\obj\Release\netcoreapp3.1\Ams.AssemblyInfo.cs
+D:\Code\Ams\obj\Release\netcoreapp3.1\Ams.csproj.CoreCompileInputs.cache
+D:\Code\Ams\obj\Release\netcoreapp3.1\Ams.csproj.CopyComplete
+D:\Code\Ams\obj\Release\netcoreapp3.1\Ams.dll
+D:\Code\Ams\obj\Release\netcoreapp3.1\Ams.pdb
+D:\Code\Ams\obj\Release\netcoreapp3.1\Ams.genruntimeconfig.cache
